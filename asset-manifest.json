@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChinessSaleAppReact/static/css/main.b7715498.css",
+    "main.js": "/ChinessSaleAppReact/static/js/main.a571fedd.js",
+    "static/js/453.e706b700.chunk.js": "/ChinessSaleAppReact/static/js/453.e706b700.chunk.js",
+    "static/media/primeicons.svg": "/ChinessSaleAppReact/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/ChinessSaleAppReact/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/ChinessSaleAppReact/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/primeicons.eot": "/ChinessSaleAppReact/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/ChinessSaleAppReact/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/ChinessSaleAppReact/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/ChinessSaleAppReact/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/ChinessSaleAppReact/index.html",
+    "main.b7715498.css.map": "/ChinessSaleAppReact/static/css/main.b7715498.css.map",
+    "main.a571fedd.js.map": "/ChinessSaleAppReact/static/js/main.a571fedd.js.map",
+    "453.e706b700.chunk.js.map": "/ChinessSaleAppReact/static/js/453.e706b700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7715498.css",
+    "static/js/main.a571fedd.js"
+  ]
+}
